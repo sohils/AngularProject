@@ -1,0 +1,32 @@
+#main{
+    background-color: lightgrey;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    flex-flow: column wrap;
+    border: 25px solid black;
+}
+
+#box1{
+  background-color: pink;
+    width: 50%;
+  height: 50%;
+}
+
+#box2{
+  background-color: lightgreen;
+  width: 50%;
+  height: 50%;
+}
+
+#box3{
+  background-color: lightblue;
+  width: 50%;
+  height: 50%;
+}
+
+#box4{
+  background-color: lightyellow;
+  width: 50%;
+  height: 50%;
+}
